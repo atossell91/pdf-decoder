@@ -1,0 +1,1 @@
+/usr/bin/clang++-13 -g CMakeFiles/pdfdecoder.dir/src/main.cpp.o -o pdfdecoder 

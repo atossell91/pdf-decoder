@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ant/Programming/pdf-decoder/build",
+  "command": "/usr/bin/clang++-13  -I/home/ant/Programming/pdf-decoder/include -g -o CMakeFiles/pdfdecoder.dir/src/main.cpp.o -c /home/ant/Programming/pdf-decoder/src/main.cpp",
+  "file": "/home/ant/Programming/pdf-decoder/src/main.cpp"
+}
+]
